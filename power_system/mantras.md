@@ -14,3 +14,11 @@ What mantras risk, they gain back in a few ways. As I already suggested, seals a
 
 
 Mantras also retain the inverse effect capabilities of their seal counterpart, but without risking burning out or unraveling at all. The same goes for normal activation: mantras will never burn out or be limited in how much Ki they can be activated with. They're only limit is the user's Ki reserves and discretion. That is in part what makes mantras so scary.
+
+Mantras are graded according to their power in tiers. These tiers are very similar to the 4-tier system for seals, but with an additional 5th tier. As follows, they are "Simple", "Perfect", "Transcendent", "Sublime", and "Divine". Divine Mantras are largely unknown even among those aware of mantras in general. At best they're considered a rumor or myth, but they very much exist. 
+
+For example, if a mantra is called "Dancing Thundershow" and it is a transcendent mantra, the necessary incantation would be "Transcendent Mantra: Dancing Thundershow". Since the inverse is a different/inverted form of the power, it has a separate name also known to the user upon being obtained (e.g. "Dancing Thundershow" -> "Calm Before the Storm"). To use the inverse it would be "Negated Transcendent Mantra: Calm Before the Storm". A Mantra can never be activated without its proper incantation.
+
+
+Mantras, having no physical element left of them, are not activated just by filling them with Ki. A Wielder needs to gather their Ki and speak the name of their Mantra, which they immediately learn upon obtaining it. The incantation must be the complete name of the power, including the tier and if the inverse ability is being used.
+
