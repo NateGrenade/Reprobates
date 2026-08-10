@@ -1,0 +1,5 @@
+The Lattice is a network of Ki connections and threads that connect all things in the universe to one another. It is through this that Wielders are able to channel Ki into themselves and use it. People do not innately possess or create their own Ki.
+
+This raises a simple question: if The Lattice is akin to an unending river of Ki, why doesn't everyone have effectively infinite Ki at their disposal? The answer is that people can only handle a certain amount of Ki flowing in/through them at a time. Think of a pipe beneath a river: despite the river supplying a huge amount of water, the pipe is only so wide, limiting the flow of water through it at any one time.
+
+As people channel Ki through themselves, their body and Ki channels become stressed over time. One can push past this exhaustion through willpower or necessity, but at a certain point, a person will completely burn out - similar to a seal burning out. When this happens, it can be days or even weeks before they can channel Ki through/into themselves again, even if their physical body heals completely.
