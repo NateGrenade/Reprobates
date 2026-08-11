@@ -1,7 +1,6 @@
 
 power_system/mantras.md | mantra, mantras | describes/defines mantras, their mechanics, and their relationship to the soul, seals, and the user, etc.
 power_system/seals.md | seal, seals | describes/defines seals, their relationship to mantras/relics, and their mechanics
-test.md | test, placeholder | Empty test file, nothing of note
 power_system/lattice.md | Lattice, Ki, Wielders, burnout | describes/defines The Lattice, the source of all Ki, and how channeling it leads to burnout
 power_system/rune-eyes.md | Rune Eyes, Formidos, overuse, lineage | describes/defines the Rune Eyes lineage ability, its origin, mechanics, visual progression, and overuse consequences
 power_system/awakening.md | Awakening, Being Called, Atheri | describes/defines Being Called, its trigger, Atheri disposition, and related authorial/thematic notes
