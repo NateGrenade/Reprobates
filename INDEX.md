@@ -12,3 +12,4 @@ characters/supporting-cast.md | Chara, Evelyn, Aeros, Dioikitis, Michani, Compan
 world/aurelia-and-relic-hunters.md | Aurelia, Atheri, Relic Hunters, setting | describes the setting, Aurelia, the Atheri race, and the Relic Hunters faction | PROVISIONAL
 lore/Aethercrux.md | Aethercrux, Zenith, Sword of Grace | describes the Aethercrux artifact and Elion's ultimate weapon, the Zenith | PROVISIONAL
 plot/structure-and-themes.md | Cross vs Throne, Four Men, arcs, ending | describes the story's arc structure, central themes, final fight framing, and ending | PROVISIONAL
+story/arc-1/overview/beginning.md | arc 1, beginning, elion, soren, chara, family, status quo | Arc 1 beginning: Elion, Soren, and Chara's setup, powers, family dynamic, and status quo before the inciting event
