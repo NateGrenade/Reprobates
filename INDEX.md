@@ -14,3 +14,5 @@ lore/Aethercrux.md | Aethercrux, Zenith, Sword of Grace | describes the Aethercr
 plot/structure-and-themes.md | Cross vs Throne, Four Men, arcs, ending | describes the story's arc structure, central themes, final fight framing, and ending | PROVISIONAL
 story/arc-1/overview/beginning.md | arc 1, beginning, elion, soren, chara, family, status quo | Arc 1 beginning: Elion, Soren, and Chara's setup, powers, family dynamic, and status quo before the inciting event
 story/arc-1/overview/inciting-event.md | arc 1, inciting event, obelisk, relic hunters | Arc 1 inciting event: Chara's worsening illness drives Elion and Soren to seek the Obelisk and the Relic Hunters under a strict time limit | PROVISIONAL
+story/arc-1/overview/middle.md | arc 1, middle | Arc 1 middle: not yet drafted, pending | PROVISIONAL
+story/arc-1/overview/ending.md | arc 1, ending, climax, obelisk, being called, dioikitis, michani, legion, soren | Arc 1 ending: cave climax, Elion's Being Called, Soren vs. the Relic Hunters, and the aftermath
