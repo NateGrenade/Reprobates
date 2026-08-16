@@ -1,4 +1,4 @@
-Elion is the protagonist of Reprobates, an engineered member of the Atheri, a powerful and long living race. He was created as a fetus by Morpheus, who functions as his (and Soren's) father/creator rather than a biological parent — making Elion and Soren are brothers in that engineered sense.
+Elion is the protagonist of Reprobates, an engineered member of the Atheri, a powerful and long living race. He was created as a fetus by Egoei, who functions as his (and Soren's) father/creator rather than a biological parent — making Elion and Soren are brothers in that engineered sense.
 
 **Rune Eyes**
 Elion carries the Rune Eyes, an ability originally manifested by an ancestor named Formidos in a desperate, failed attempt to cure death. Rune Eyes fulfill the user's deepest desire through raw power, but imperfectly — Formidos gained immense lifespan, not true immortality. In general, they amplify whatever self-focused desire drives the user.
