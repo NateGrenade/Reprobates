@@ -5,9 +5,10 @@ power_system/rune-eyes.md | Rune Eyes, Formidos, overuse, lineage | describes/de
 power_system/being_called.md | Awakening, Being Called, Atheri | describes/defines Being Called, its trigger, Atheri disposition, and related authorial/thematic notes | PROVISIONAL
 power_system/adaptation-framework.md | adaptation, Elion power, levels | Nathan's 5-level framework for adaptation powers and how it maps to Elion's ability specifically | PROVISIONAL
 characters/Elion/overview.md | Elion, protagonist | describes Elion: Atheri origin, Rune Eyes, adaptation power, the Zenith, and his arc/ending | PROVISIONAL
-characters/Soren/overview.md | Soren, brother, rival | describes Soren: ideology, relationship to Elion, and his death | PROVISIONAL
-characters/Egoei/overview.md | Morpheus, villain, antagonist | describes Morpheus: backstory, ideology, plan, and death | PROVISIONAL
-characters/Aioni/overview.md | Revenant, villain, antagonist | describes Revenant: rule, ideology, relationship to Morpheus, and death | PROVISIONAL
+characters/Soren/overview.md | Soren, brother, rival, absorption | describes Soren: ideology, absorption power, relationship to Elion, and his death | PROVISIONAL
+characters/elion-soren-origin.md | origin, adoption, noble parents, fetuses, Aurelia, Egoei | how Elion and Soren's engineered fetuses landed on Aurelia and were adopted by their noble "parents" | PROVISIONAL
+characters/Egoei/overview.md | Egoei, villain, antagonist | describes Egoei: backstory, ideology, plan, and death | PROVISIONAL
+characters/Aioni/overview.md | Aioni, villain, antagonist | describes Aioni: rule, ideology, relationship to Egoei, and death | PROVISIONAL
 characters/supporting-cast.md | Chara, Evelyn, Aeros, Dioikitis, Michani, Companions, Legion | describes supporting cast members across the arcs | PROVISIONAL
 world/aurelia-and-relic-hunters.md | Aurelia, Atheri, Relic Hunters, setting | describes the setting, Aurelia, the Atheri race, and the Relic Hunters faction | PROVISIONAL
 lore/Aethercrux.md | Aethercrux, Zenith, Sword of Grace | describes the Aethercrux artifact and Elion's ultimate weapon, the Zenith | PROVISIONAL
