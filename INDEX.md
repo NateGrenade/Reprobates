@@ -18,3 +18,5 @@ story/arc-1/overview/inciting-event.md | arc 1, inciting event, obelisk, relic h
 story/arc-1/overview/middle.md | arc 1, middle | Arc 1 middle: not yet drafted, pending | PROVISIONAL
 story/arc-1/overview/ending.md | arc 1, ending, climax, obelisk, being called, dioikitis, michani, legion, soren | Arc 1 ending: cave climax, Elion's Being Called, Soren vs. the Relic Hunters, and the aftermath
 story/arc-2/scene_write_ups/soren_elion_confrontation.md | Soren, Elion, confrontation | exploratory scene write-up prototyping their Arc 2 confrontation, relationship tension, dialogue, and escalation | SPECULATION
+story/arc-2/speculation/concord-collapse-return.md | Arc 2, Concord, martial law | speculative Arc 2 development in which Elion and Soren return to the collapsing Concord to rescue Chara amid martial law, rebellions, and RHS raids | SPECULATION
+story/arc-2/speculation/egoei-relic-hunters.md | Egoei, Relic Hunters, sacrifice | speculative hidden history connecting Egoei to the founding and control of the Relic Hunters and their sacrifices sustaining his body | SPECULATION
