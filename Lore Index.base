@@ -18,8 +18,8 @@ views:
       direction: ASC
     order:
       - file.name
-      - note.status
-      - note.description
+      - status
+      - description
   - type: table
     name: Speculation & proposals
     filters:
@@ -29,4 +29,4 @@ views:
     order:
       - file.name
       - file.folder
-      - note.description
+      - description
