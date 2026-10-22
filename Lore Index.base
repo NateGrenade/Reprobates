@@ -1,0 +1,32 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.name != "Home"
+    - file.name != "README"
+    - not:
+        - file.inFolder("Templates")
+properties:
+  note.status:
+    displayName: Status
+  note.description:
+    displayName: Description
+views:
+  - type: table
+    name: All notes
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - note.status
+      - note.description
+  - type: table
+    name: Speculation & proposals
+    filters:
+      or:
+        - note.status == "speculation"
+        - note.status == "proposal"
+    order:
+      - file.name
+      - file.folder
+      - note.description
