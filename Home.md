@@ -1,6 +1,6 @@
 # Reprobates
 
-Start here: [[Structure and Themes]] · [[Elion]] · [[Soren]] · [[Arc 1 Beginning]]
+Start here: [[Structure and Themes]] · [[Elion]] · [[Soren]] · [[Book 1 Beginning]]
 
 ## Status key
 Every note has a `status` and a one-line `description` in its properties.

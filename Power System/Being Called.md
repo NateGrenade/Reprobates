@@ -10,7 +10,9 @@ The current model: Being Called is triggered by facing near-certain death, where
 
 
 ## Atheri and Timing
-Atheri, including [[Elion]] and [[Soren]], have a significantly heightened innate disposition toward Being Called, which is why it happens for them so young (early 20s). Other, less inherently powerful characters need to work harder and longer to reach the same point.
+Atheri, including [[Elion]] and [[Soren]], have a significantly heightened innate disposition toward Being Called, which is why it happens for them so young (early 20s). For the twins, Being Called coincides with manifesting their [[Rune Eyes]]. Soren is fully Called in Book 1. Elion's Book 1 awakening is only partial (a half-awakening), completed late in Book 2. Other, less inherently powerful characters need to work harder and longer to reach the same point.
 
 ## Naming
 "Being Called" was chosen over "Awakening" and "The Threshold" — the name is meant to evoke both a calling to life and a calling toward one's eventual ideals and convictions.
+
+"Being Called" is the official, technically correct term in-world. "Awakening" survives as a common colloquial term (Soren and Evelyn use it in Book 1). It's less precise, but fine.

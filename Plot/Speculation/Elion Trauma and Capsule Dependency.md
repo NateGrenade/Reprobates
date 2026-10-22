@@ -1,6 +1,6 @@
 ---
 status: speculation
-description: "Cross-arc idea: Elion's grief, emotional suppression, capsule dependency, and the Arc 5 reveal"
+description: "Cross-arc idea: Elion's grief, emotional suppression, capsule dependency, and the Arc 6 reveal"
 ---
 # Elion's Trauma, Emotional Suppression, and Capsule Dependency
 
@@ -8,11 +8,11 @@ description: "Cross-arc idea: Elion's grief, emotional suppression, capsule depe
 
 ## Overview
 
-Following the destruction of [[Aurelia and the Relic Hunters#Aurelia|Aurelia]] at the end of Arc 2, [[Elion]] escapes into space having lost effectively everything: his home, family, friends, [[Supporting Cast#Chara|Chara]], and [[Soren]], whose fate is unknown. He enters a foreign galaxy whose language, culture, and moral framework are fundamentally alien to him.
+Following the destruction of [[Aurelia|Aurelia]] at the end of Arc 3, [[Elion]] escapes into space having lost effectively everything: his home, family, friends, [[Supporting Cast#Chara|Chara]], and [[Soren]], whose fate is unknown. He enters a foreign galaxy whose language, culture, and moral framework are fundamentally alien to him.
 
-This speculation proposes that Arcs 3–5 explore not only Elion's grief, but his increasingly unhealthy attempts to avoid confronting it. A recurring element is a drug-like capsule that temporarily suppresses his emotional pain. Elion initially believes he is using it responsibly, but gradually develops a severe dependency while convincing himself that it is helping him recover.
+This speculation proposes that Arcs 4–6 explore not only Elion's grief, but his increasingly unhealthy attempts to avoid confronting it. A recurring element is a drug-like capsule that temporarily suppresses his emotional pain. Elion initially believes he is using it responsibly, but gradually develops a severe dependency while convincing himself that it is helping him recover.
 
-The eventual reveal in late Arc 5 reframes much of Elion's behavior throughout the middle of the story.
+The eventual reveal in late Arc 6 reframes much of Elion's behavior throughout the middle of the story.
 
 ## The Foreign Galaxy
 
@@ -33,7 +33,7 @@ Elion has already lost everyone who affirmed his identity and values. Now he is 
 - his belief that suffering can have meaning
 - his conception of what a person ought to do rather than merely what they want to do
 
-Arc 3 can therefore function as an ideological as well as psychological struggle. Elion is grieving Aurelia while simultaneously living in a civilization that provides almost no external reinforcement for the worldview he is trying to preserve.
+Arc 4 can therefore function as an ideological as well as psychological struggle. Elion is grieving Aurelia while simultaneously living in a civilization that provides almost no external reinforcement for the worldview he is trying to preserve.
 
 ## Elion's Psychological State
 
@@ -49,7 +49,7 @@ This creates a distinction between wanting to die and being unable to find a rea
 
 ## The Capsules
 
-At some point in Arc 3, Elion discovers a strange capsule that, when taken, temporarily alleviates his emotional pain.
+At some point in Arc 4, Elion discovers a strange capsule that, when taken, temporarily alleviates his emotional pain.
 
 The effect should primarily be emotional anesthesia rather than euphoria. The capsule allows him to:
 
@@ -116,9 +116,9 @@ The emotional anesthesia of the capsules may therefore contribute indirectly to 
 
 This should remain a character interpretation rather than an explicit causal statement unless later canon establishes otherwise.
 
-## The Arc 5 Reveal
+## The Arc 6 Reveal
 
-The most significant reveal occurs late in Arc 5, after Elion's moral decline causes his companions to abandon him.
+The most significant reveal occurs late in Arc 6, after Elion's moral decline causes his companions to abandon him.
 
 Only after he is completely alone does the audience receive a genuine look at his living situation.
 
@@ -136,7 +136,7 @@ The room itself reflects prolonged neglect:
 
 The sheer quantity reveals that Elion's use was vastly greater than the audience had previously understood.
 
-The audience realizes that the occasional capsules shown throughout Arcs 3–5 were only the visible fraction of a much larger habit.
+The audience realizes that the occasional capsules shown throughout Arcs 4–6 were only the visible fraction of a much larger habit.
 
 ## Recontextualization
 
@@ -178,18 +178,18 @@ The capsules allow him to temporarily stop feeling the suffering at all.
 
 ## Relationship to the Larger Arc
 
-This speculation provides a possible psychological bridge between the end of Arc 2 and Elion's eventual state in Arc 5.
-
-**Arc 2:**  
-Elion loses everything.
+This speculation provides a possible psychological bridge between the end of Arc 3 and Elion's eventual state in Arc 6.
 
 **Arc 3:**  
+Elion loses everything.
+
+**Arc 4:**  
 Elion attempts to survive in an alien civilization while grieving Aurelia and struggling to preserve his worldview.
 
-**Arcs 3–5:**  
+**Arcs 4–6:**  
 Elion increasingly suppresses his pain through the capsules while convincing himself that he is functioning and recovering.
 
-**Arc 5:**  
+**Arc 6:**  
 His moral decline under Egoei's influence causes his companions to abandon him.
 
 **The reveal:**  
@@ -203,7 +203,7 @@ This is currently **SPECULATION**, not established canon.
 
 The exact nature of the capsules, their pharmacological effects, whether they are chemically addictive, and the precise degree to which they contribute to Elion's moral decline remain undecided.
 
-Likewise, the degree to which suicide enters Elion's thoughts should remain flexible until the tone and structure of Arcs 3–5 are further developed.
+Likewise, the degree to which suicide enters Elion's thoughts should remain flexible until the tone and structure of Arcs 4–6 are further developed.
 
 The core speculative concept is the combination of:
 
@@ -213,5 +213,5 @@ The core speculative concept is the combination of:
 4. The discovery of a substance that temporarily suppresses his emotional pain.
 5. Elion convincing himself that controlled use is helping him.
 6. Gradual, largely hidden dependency.
-7. A late Arc 5 reveal showing the enormous scale of the habit.
+7. A late Arc 6 reveal showing the enormous scale of the habit.
 8. The dependency serving as a manifestation of Elion's broader refusal or inability to confront his suffering.

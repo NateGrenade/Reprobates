@@ -1,12 +1,18 @@
 ---
 status: speculation
-description: "Scene prototype of Soren and Elion's Arc 2 confrontation: tension, dialogue, escalation"
+description: "Scene prototype of Soren and Elion's Arc 3 confrontation: tension, dialogue, escalation (partly outdated; see callout)"
 ---
 # Soren / Elion Confrontation
 
 **Status: SPECULATION**
 
-> This is an exploratory scene write-up intended to prototype the [[Soren]]/[[Elion]] relationship, dialogue, escalation, and emotional dynamics during their confrontation in Arc 2.
+> [!warning] Outdated after the Book 1 audit (2026-10-22)
+> Kept as a choreography reference; the scene will likely be rewritten. The prose below is unedited. Where it conflicts with canon:
+> - **Arc and book:** this was "Arc 2." That arc is now split, and this fight belongs to Arc 3 (Book 3), before Aurelia's destruction.
+> - **Timing of the eyes:** "It was weeks on end" before Elion unlocked his Rune Eyes. Per Book 1, Soren awakens in Maristadiz and Elion half-awakens about a week later at the Obelisk.
+> - **The Relic Hunters' reputation:** they weren't simply "a clandestine group interested in relics for their historical value." They're openly resented but tolerated through shadow control of the government (see [[Relic Hunters' Society#Grip on The Concord]]).
+
+> This is an exploratory scene write-up intended to prototype the [[Soren]]/[[Elion]] relationship, dialogue, escalation, and emotional dynamics during their confrontation in Arc 3.
 >
 > The prose and dialogue are not intended to represent the final written version of the scene. Most of the exact wording, narration, pacing, and presentation may be substantially revised or discarded. The primary value of this document is in preserving the underlying character interaction and dramatic beats.
 
@@ -20,7 +26,7 @@ This dynamic was one that always kept tension between the two. Elion did good th
 
 Ever since then, Soren seemed... different. He was hesitant to hit Elion in the same demeaning way he had before, though no less sharp with his criticisms. In fact, Soren began scrutinizing Elion's actions more and more, despite Elion having softened some of his views in recent times. The two still engaged in regular sparring, as they always had, but there was a certain pressure that hadn't been present before. It seemed as if the both of them moved with more caution and were more reserved with the strength of their blows. Elion continued being bested in these matches, but it was clear the gap had closed... and the temptation to put more behind his blows grew every day for the young man, as Soren still held onto their supposed power differences.
 
-That had been about a month ago, when they last sparred. Things in the Aurelian Concord had become massively chaotic as a group known as the [[Aurelia and the Relic Hunters#The Relic Hunters|Relic Hunters]]' Society began running wild out of nowhere. They had been previously known for being a clandestine group interested in relics for their historical value and to study. Now, they'd begun raiding every relic and magical item from towns, cities, and provinces alike. These raids often ended with bloodshed between them and the guards/local military, too. Order quickly began to fall as the government struggled in an all out guerilla war. Soren, Elion, as well as Kai and Amber - two of their companions - had set out to figure out what was going on and how to stop it. They'd discovered that the planet itself could be in danger, and that Elion/Soren were two people considered very valuable by the society, too, among many others. They had collectively tried to track down the other 'valuable' people for information and because of their strength, which would prove useful in quelling this threat. Soren constantly criticized Elion, became even more aggressive, and Elion responded in kind. The two were almost constantly at odds in their desires and decision making. Eventually, Elion elected to say that tracking down these other people was not proving a good use of their time: doing so would only slow and bog them down, and they needed to act regardless of whether the society kidnapped, killed, or did whatever to the remaining targets.
+That had been about a month ago, when they last sparred. Things in the Aurelian Concord had become massively chaotic as a group known as the [[Relic Hunters' Society|Relic Hunters]]' Society began running wild out of nowhere. They had been previously known for being a clandestine group interested in relics for their historical value and to study. Now, they'd begun raiding every relic and magical item from towns, cities, and provinces alike. These raids often ended with bloodshed between them and the guards/local military, too. Order quickly began to fall as the government struggled in an all out guerilla war. Soren, Elion, as well as Kai and Amber - two of their companions - had set out to figure out what was going on and how to stop it. They'd discovered that the planet itself could be in danger, and that Elion/Soren were two people considered very valuable by the society, too, among many others. They had collectively tried to track down the other 'valuable' people for information and because of their strength, which would prove useful in quelling this threat. Soren constantly criticized Elion, became even more aggressive, and Elion responded in kind. The two were almost constantly at odds in their desires and decision making. Eventually, Elion elected to say that tracking down these other people was not proving a good use of their time: doing so would only slow and bog them down, and they needed to act regardless of whether the society kidnapped, killed, or did whatever to the remaining targets.
 
 That's what caused the true argument. Elion practically told Soren that trying to save others, even those of the list that were young and defenseless, was a waste of time. A direct attack on Soren's ideals and beliefs.
 

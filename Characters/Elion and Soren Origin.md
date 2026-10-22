@@ -6,7 +6,7 @@ description: "How Elion and Soren's engineered fetuses landed on Aurelia and wer
 
 *Provisional — broad strokes locked in, exact mechanics/timeline to be refined.*
 
-This is the personal, [[Aurelia and the Relic Hunters#Aurelia|Aurelia]]-specific thread of Egoei's broader plan (see [[Egoei]]) to scatter roughly 1,000 engineered Atheri fetuses across the galaxy — both to distract [[Aioni]]'s search and to keep the fetuses safer than concentrating them in one place.
+This is the personal, [[Aurelia|Aurelia]]-specific thread of Egoei's broader plan (see [[Egoei]]) to scatter roughly 1,000 engineered Atheri fetuses across the galaxy — both to distract [[Aioni]]'s search and to keep the fetuses safer than concentrating them in one place.
 
 [[Elion]] and [[Soren]]'s fetuses are among those scattered, arriving together on Aurelia and growing into infants there (exact circumstances of the landing/early infancy still to be nailed down).
 

@@ -28,6 +28,9 @@ As Soren embraces his new ideology, he may become more energetic, passionate, pu
 
 He no longer has to wait for the universe to become better. He believes he can **make it** better.
 
+### Note on timing
+This progression describes Soren's broader arc. It doesn't preclude him from having power before his despair. He already has real power from Book 1 (his [[Rune Eyes]] awaken there, and the urge toward control already flickers; see [[Soren#Awakening (Book 1)]]). What comes after despair isn't gaining power but **realizing** he has it, and that he has the right (and obligation) to use it. Because Rune Eyes grow massively stronger as convictions harden, his post-despair power dwarfs what he shows in Book 1, which is great relative to Book 1 but laughable next to cosmic conflicts and cycles of war and hate.
+
 ## Central Tragedy
 
 Soren does not necessarily become evil because he stops caring about people. He becomes evil because his desire to relieve suffering becomes detached from the limits imposed by morality, human dignity, freedom, and legitimate distinctions between persons and societies.

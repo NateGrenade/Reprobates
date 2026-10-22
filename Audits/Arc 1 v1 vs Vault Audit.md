@@ -66,7 +66,7 @@ description: "Working audit: every disagreement between the Arc 1 v1 draft (Driv
 
 - **Vault**
   - [[Supporting Cast#Evelyn & Aeros]]: "Aeros's suffering triggers Elion's Awakening ("Being Called")." [[Structure and Themes]] says the same.
-  - [[Arc 1 Ending]]: Elion's drowning monologue turns on Aeros and Evelyn "laughing together… true siblings," his broken promise to them, and Soren fighting "to the point of collapse." His turn is outward-facing.
+  - [[Book 1 Ending]]: Elion's drowning monologue turns on Aeros and Evelyn "laughing together… true siblings," his broken promise to them, and Soren fighting "to the point of collapse." His turn is outward-facing.
 - **v1** (Climax → End)
   - Aeros is killed right before this, but the river monologue is about Chara and himself: the planche/candle memory ("You're also trying really really hard"), then *"I can't let myself be weak… Since when does trying matter."*
   - Mid-fight, his drive reads *"I have to win. I have to save everyone. I have to reclaim my glory. I have to save Chara."*
@@ -88,7 +88,7 @@ It kind just ended up working out this way, and it felt more natural to have the
 ### F2 · The Heart Gem choice (Elion's Arc 1 moral beat)
 **Degree:** Superseded · **Severity:** 🔴 Foundational · **Read:** deliberate (v1 marks the vault's version deprecated)
 
-- **Vault** ([[Arc 1 Ending]]): Elion pulls at the gem, Aeros yells as Michani twists his arm, and *"Elion freezes, recalling a similar yelp from his sister when she was struck, and suddenly gives up trying to wrench the gem out."* He chooses to help.
+- **Vault** ([[Book 1 Ending]]): Elion pulls at the gem, Aeros yells as Michani twists his arm, and *"Elion freezes, recalling a similar yelp from his sister when she was struck, and suddenly gives up trying to wrench the gem out."* He chooses to help.
 - **v1** (Climax)
   - Elion keeps pulling while Michani kills Aeros: *"I can't afford to stop… Aeros is already gone!"*
   - He then abandons the gem to attack Michani in rage ("How dare you!").
@@ -170,7 +170,7 @@ While writing I did understand Aeros as being, like, 95% dead but not completely
 ### M1 · Arc 1 Ending note is the deprecated ending
 **Degree:** Superseded · **Severity:** 🟠 Major · **Read:** deliberate
 
-- **Vault** ([[Arc 1 Ending]]): the cave climax, the fight, the hospital wake-up, the "classical happy ending," and the Legion epilogue.
+- **Vault** ([[Book 1 Ending]]): the cave climax, the fight, the hospital wake-up, the "classical happy ending," and the Legion epilogue.
 - **v1:** the second half of that note is nearly verbatim the block v1 brackets with **"THE BELOW IS TOTALLY DEPRICATED"**. v1's new Climax and End replace it. Specific differences (F2, M2, M3 have their own items):
   - **Ki amalgamations** (the spirits of the dead swarming the cave, and Michani's Ki grenade) are gone from v1.
   - **Who puts Elion in the river:**
@@ -188,7 +188,7 @@ While writing I did understand Aeros as being, like, 95% dead but not completely
   - **Aftermath:**
     - Vault: hospital, Chara and several others healed at the Obelisk (now limited to a few a day), the party with Soren absent, Elion feeling hollow, Elion inviting Evelyn and Aeros to live in the city.
     - v1: Elion wakes after 2+ weeks in the manor infirmary and Chara is healed. How she was healed, the Obelisk's state, Evelyn's and Aeros's fates, and the party's details are still open, with a "(below is to be added)" placeholder.
-- **Suggested handling:** if v1 wins, rewrite [[Arc 1 Ending]] from v1's Climax and End, and keep a short "Open in draft" list for the unwritten pieces.
+- **Suggested handling:** if v1 wins, rewrite [[Book 1 Ending]] from v1's Climax and End, and keep a short "Open in draft" list for the unwritten pieces.
 
 **Verdict:**
 - [x] v1 wins → rewrite the vault note from v1
@@ -204,8 +204,8 @@ V1, to use gen z sland, "clears" here. I personally think the proposed climax an
 **Degree:** Apparent · **Severity:** 🟠 Major · **Read:** v1 is unfinished here, not contradicting on purpose
 
 - **Vault**
-  - [[Arc 1 Ending]]: Elion defeats Dioikitis.
-  - [[Arc 1 Plot Holes and Fixes]] §2–3: builds Aeros's safety on *"Once Dioikitis is gone…"* and *"the 'Dioikitis dies, Aeros is safe' seal."*
+  - [[Book 1 Ending]]: Elion defeats Dioikitis.
+  - [[Book 1 Plot Holes and Fixes]] §2–3: builds Aeros's safety on *"Once Dioikitis is gone…"* and *"the 'Dioikitis dies, Aeros is safe' seal."*
 - **v1** (Climax): Dioikitis is cut by the water seal but standing, with his plasma bolt in flight when Elion blacks out. The End section never says what happened to him.
 - **Why it matters:** Aeros's safety and the database thread both depend on this.
 
@@ -222,7 +222,7 @@ This is NOT written in v1 yet, but it is my intention. Dio survives but is impri
 ### M3 · The Legion epilogue
 **Degree:** Superseded? · **Severity:** 🟠 Major · **Read:** unclear; it may have been swept into the deprecated block by accident
 
-- **Vault** ([[Arc 1 Ending]]): *"Somewhere, deep in space, someone opens his eyes… summons a man named 'Legion'. 'There are two Atheri I need you to deal with'."*
+- **Vault** ([[Book 1 Ending]]): *"Somewhere, deep in space, someone opens his eyes… summons a man named 'Legion'. 'There are two Atheri I need you to deal with'."*
 - **v1:** that exact passage sits inside the "TOTALLY DEPRICATED" markers, and v1's new End has no epilogue.
 - **Question:** was the epilogue meant to be cut along with the old ending, or does it survive?
 
@@ -240,7 +240,7 @@ Ehhh... this scene will TECHNICALLY live on, but I'm moving it to book 2. Import
 **Degree:** Implicit · **Severity:** 🟠 Major · **Read:** possibly deliberate (it pays off Elion's warning), or temporary shock
 
 - **Vault**
-  - [[Arc 1 Plot Holes and Fixes]] §1: Aeros *"can live normally as long as he hides his powers."*
+  - [[Book 1 Plot Holes and Fixes]] §1: Aeros *"can live normally as long as he hides his powers."*
   - [[Supporting Cast]] has no loss.
 - **v1**
   - End of Middle: Elion warns that overusing Forced Ki Assimilation means *"you'll totally eliminate any control or access you have to Ki again… forever."*
@@ -261,14 +261,14 @@ Temporary as I currently plan, but "temporary" is a strong word because it'll ta
 **Degree:** Explicit · **Severity:** 🟠 Major · **Read:** deliberate evolution
 
 - **Vault**
-  - [[Aurelia and the Relic Hunters#The Relic Hunters]]: *"a tech/analyst who takes after his leader in arrogance, but leans slightly sadistic."*
+  - [[Relic Hunters' Society]]: *"a tech/analyst who takes after his leader in arrogance, but leans slightly sadistic."*
   - [[Supporting Cast#Dioikitis & Michani]]: *"a tech/analyst who humiliates Elion using combat data."*
 - **v1:** a half-mechanical cyborg (*"a metal abomination pretending to be human"*) who doesn't need air and reboots.
   - He's long-lived: *"When you've lived as long as I have,"* *"I haven't had this kind of fun in decades."*
   - He's a deeply sadistic hunter who treats people as *"the ultimate game of chess."*
   - He has intelligence beyond his rank, kills Aeros and taunts Evelyn, then abandons Dioikitis and flies off.
   - He never humiliates Elion with combat data; that beat was in the deprecated ending.
-- **Note:** [[Arc 1 Plot Holes and Fixes]] §6.2 already treats v1's Michani as the hidden-layer (Egoei) agent, so the vault is internally split.
+- **Note:** [[Book 1 Plot Holes and Fixes]] §6.2 already treats v1's Michani as the hidden-layer (Egoei) agent, so the vault is internally split.
 
 **Verdict:**
 - [x] v1 wins → update the vault
@@ -283,7 +283,7 @@ V1 is just so much better, don't you think? Also I'd lowk forgotten that Michani
 ### M6 · Relic Hunter tech and origin vs. a "medieval" Aurelia
 **Degree:** Apparent · **Severity:** 🟠 Major (worldbuilding; points toward the wider galaxy) · **Read:** deliberate
 
-- **Vault** ([[Aurelia and the Relic Hunters]]): Aurelia *"operates on a medieval level of technology, aside from the relics."* The RHS *"excavate relics while blending into local populations."*
+- **Vault** ([[Aurelia]]): Aurelia *"operates on a medieval level of technology, aside from the relics."* The RHS *"excavate relics while blending into local populations."*
 - **v1:** the RHS have tech far beyond relics:
   - plasma hand cannons, powered suits with jet thrusters, IR vision, and invisibility
   - server rooms with MRT/TMT databases, earpieces, and a Teleportation Seal Matrix
@@ -306,7 +306,7 @@ no real notes here, you summed it up well. The rest of the world still uses medi
 
 - **Vault** ([[Egoei and the Relic Hunters]], speculation): *"The Relic Hunters were established and controlled by Egoei."*
 - **v1:** the RHS's top field commander is terrified of Rune Eyes and orders every witness executed so no one learns of Soren (*"You need to die! I cannot afford to have a single soul escape"*).
-- **Note:** [[Arc 1 Plot Holes and Fixes]] §6.2 already proposes a fix: Dioikitis serves the surface institution, and Michani serves the hidden layer. If you accept that, this item just needs formalizing.
+- **Note:** [[Book 1 Plot Holes and Fixes]] §6.2 already proposes a fix: Dioikitis serves the surface institution, and Michani serves the hidden layer. If you accept that, this item just needs formalizing.
 
 **Verdict:**
 - [x] Use the two-layer fix (formalize in the vault)
@@ -323,7 +323,7 @@ This kind of plays in with my previous point about Egoei being in a stasis of so
 ### Mo1 · Arc 1 Middle note says "not yet drafted"
 **Degree:** Superseded · **Severity:** 🟡 Moderate (no story conflict, but the vault is missing the arc's spine) · **Read:** deliberate (you wrote it)
 
-- **Vault** ([[Arc 1 Middle]]): *"Not yet drafted."*
+- **Vault** ([[Book 1 Middle]]): *"Not yet drafted."*
 - **v1:** a full Early Middle, Middle Middle, and End of Middle:
   - the BS-201 ambush and the stolen officer seal
   - the first Dioikitis fight and the tracker
@@ -332,7 +332,7 @@ This kind of plays in with my previous point about Egoei being in a stasis of so
   - meeting Aeros and Michani's rooftop visit
   - Elion's childhood flashback and training Aeros
   - Elion splitting off, and the capital
-- **Suggested handling:** if v1 wins, write [[Arc 1 Middle]] as a beat summary of these sections. Your prose stays in Drive.
+- **Suggested handling:** if v1 wins, write [[Book 1 Middle]] as a beat summary of these sections. Your prose stays in Drive.
 
 **Verdict:**
 - [x] v1 wins → write a vault summary of the middle
@@ -366,7 +366,7 @@ I honestly don't see the contradiction here. Burnout is from general Ki overuse/
 **Degree:** Implicit · **Severity:** 🟡 Moderate (possibly the fuse for Aurelia's destruction) · **Read:** possibly deliberate
 
 - **Vault**
-  - [[Arc 1 Plot Holes and Fixes]] §2: Dioikitis *"never reported (and never would report)"* Soren's nature.
+  - [[Book 1 Plot Holes and Fixes]] §2: Dioikitis *"never reported (and never would report)"* Soren's nature.
   - §6.3: exposure brings Aioni's reprisals.
   - [[Elion and Soren Origin]]: neither twin learns his origin in Arc 1.
 - **v1** (End): Chara: *"Did you see Soren's crazy weird eyes?"* So the household, and possibly the public at the party, knows about the eyes. (Knowing about the eyes still isn't knowing they're Atheri, so the origin note holds.)
@@ -419,7 +419,7 @@ Ohhh yeah, Dioikitis and Michani don't even scratch the SURFACE with how deep th
 ### Mo6 · Elion and Soren's responsibilities
 **Degree:** Explicit · **Severity:** 🟡 Moderate · **Read:** deliberate evolution
 
-- **Vault** ([[Arc 1 Beginning]]): *"both of them have few real responsibilities as their parents handle noble duties."*
+- **Vault** ([[Book 1 Beginning]]): *"both of them have few real responsibilities as their parents handle noble duties."*
 - **v1** (Chapter 1)
   - *"the increasing responsibilities for the city being placed on his shoulders"*
   - *"And yet they still haven't let us inherit the city which we practically govern."*
@@ -456,7 +456,7 @@ I sort of overstate how hated the Relic Hunters are in v1, but the vault underst
 ### m1 · Relic hunting: job or paused hobby
 **Degree:** Apparent · **Severity:** ⚪ Minor · **Read:** deliberate (consistent with Mo6)
 
-- **Vault** ([[Arc 1 Beginning]]): *"Elion chooses to hunt relics - a flashy job for a flashy guy. He competes directly with… the Relic Hunters."*
+- **Vault** ([[Book 1 Beginning]]): *"Elion chooses to hunt relics - a flashy job for a flashy guy. He competes directly with… the Relic Hunters."*
 - **v1** (Chapter 1): *"Elion hasn't been able to return to his hobby of relic hunting for months"* because of his research and city duties.
 
 **Verdict:**
@@ -488,7 +488,7 @@ That scene's pretty old. Makes sense that slipped through the cracks.
 ### m3 · Evelyn hid Aeros for "a decade"
 **Degree:** Apparent · **Severity:** ⚪ Minor · **Read:** likely accidental
 
-- **Vault** ([[Arc 1 Plot Holes and Fixes]] §1): Evelyn was conscripted when Aeros's sensitivity was *"only speculative."* She staged his disappearance only *"once Aeros's powers began manifesting."*
+- **Vault** ([[Book 1 Plot Holes and Fixes]] §1): Evelyn was conscripted when Aeros's sensitivity was *"only speculative."* She staged his disappearance only *"once Aeros's powers began manifesting."*
 - **v1:** she's been in the RHS *"almost 10 years,"* and says *"I spent an entire decade of my life hiding him."* Aeros is about 12–13, so he'd have had to be hidden from age ~2–3, before his powers could have manifested.
 
 **Verdict:**
@@ -567,7 +567,7 @@ Funny enough this is actually deliberate foreshadowing for Egoei. Egoei -> "Ego 
 ---
 
 # Already tracked elsewhere
-These are v1 issues the vault already lists in [[Arc 1 Plot Holes and Fixes]], so they aren't repeated above:
+These are v1 issues the vault already lists in [[Book 1 Plot Holes and Fixes]], so they aren't repeated above:
 - **Chara as "true heir" vs. the adoption lore**: §5
 - **Evelyn's armor appearing from nowhere**: §4 (still present in v1's Climax)
 - **Michani's survival, the database copy, lineage records**: §3
@@ -649,7 +649,7 @@ Honestly writing out as much as I did earlier made me decide the suppression sea
 ### Q3 · Planned-but-unwritten beats (Dioikitis's fate, Aeros's recovery)
 M2 and M4 describe things you intend that aren't in v1 yet.
 
-**Default:** put them under a `## Planned (not yet in draft)` heading in the relevant notes, so the vault never claims v1 says something it doesn't. In [[Arc 1 Plot Holes and Fixes]]:
+**Default:** put them under a `## Planned (not yet in draft)` heading in the relevant notes, so the vault never claims v1 says something it doesn't. In [[Book 1 Plot Holes and Fixes]]:
 - **§3.2** (the database copy) becomes resolved, since it's destroyed with his gear.
 - **§2–3** keep their "Dioikitis dies" premise, now via the silencing seal.
 
@@ -770,3 +770,48 @@ Only note on the m4 default I should have clarified: the charred skin is Elion-s
 
 
 Again, list any misunderstandings/clarifications needed (if you have any) before editing.
+---
+
+# Applied (2026-10-22, Claude)
+Every verdict and clarification above was applied to the vault. v1 was not touched.
+
+**Restructure**
+- `Story/Arc 1/` → `Story/Book 1 - The Obelisk/`. Notes renamed to `Book 1 Beginning / Inciting Event / Middle / Ending / Plot Holes and Fixes`, and every link updated.
+- `World/Aurelia and the Relic Hunters` → split into [[Aurelia]] and [[Relic Hunters' Society]]. Links repointed.
+- The old `Story/Arc 2/` contents moved:
+  - [[Soren-Elion Confrontation]] → `Story/Book 3/Scenes/`
+  - [[Concord Collapse Return]] → `Story/Book 3/Speculation/`
+  - [[Egoei and the Relic Hunters]] → `Plot/Speculation/`, since it's cross-book lore rather than a book event.
+- New notes: [[The Concord]], [[The Obelisk]], [[Forced Ki Assimilation]], [[Innate Techniques]].
+
+**Per item**
+- **F1, F3:** [[Elion]] rewritten. Half-awakening and its internal conflict; adaptation control is degree, not function, and arrives with the late-Book-2 full awakening; Book 1 adaptations; the Elion-specific charring. [[Supporting Cast]] and [[Structure and Themes]] no longer say Aeros's suffering triggers his Being Called.
+- **F2, M1:** [[Book 1 Ending]] rewritten from v1's Climax and End, with "Planned" and "Open in draft" sections.
+- **F4:** a "Note on timing" added to [[Soren Character Arc]], and an awakening section added to [[Soren]].
+- **F5:** [[The Obelisk]] states it can't resurrect; the ending calls Aeros near-dead.
+- **M2, M4, Q3:** under "Planned (not yet in draft)" in [[Supporting Cast]] and [[Book 1 Ending]]. Plot Holes §3.2 resolved.
+- **M3, Q2:** [[Structure and Themes#Trilogy One and the Aioni thread]] covers the suppression seal, Aioni's detection and location, and Legion arriving at the end of Book 3.
+- **M5, Mo4, Mo5, Q4:** Dioikitis and Michani rewritten in [[Supporting Cast]]; Michani's allegiance is undecided. Plot Holes §6.2 rewritten.
+- **M6, M7, Mo7:** [[Relic Hunters' Society]] covers off-world tech, the two layers, Anokpe = Egoei, and the shadow grip on the Concord (marked planned). [[Egoei and the Relic Hunters]] now says "designed, not puppeted" and keeps child sacrifice.
+- **Q5:** no stasis/god material recorded. [[Egoei]] gets an "Open questions" section saying his specifics wait on the Books 2–3 trajectory.
+- **Mo1:** [[Book 1 Middle]] written as a beat summary, flagged as subject to tweaks.
+- **Mo2, m6:** [[Lattice]] adds Ki networks (= channels) and Ki gateways, with overdraw left open. [[Forced Ki Assimilation]] distinguishes its permanent damage from ordinary burnout.
+- **Mo3:** the eyes leak is noted in [[Soren]] and [[Book 1 Ending]].
+- **Mo6, m1:** responsibilities and the "flashy hobby" are in [[Book 1 Beginning]]. Chapter 1 beats (including the vow) are added to [[Book 1 Inciting Event]].
+- **m2, Q6:** an outdated-callout added to the scene; its prose is unedited.
+- **m3:** ages added to Plot Holes §1 and [[Supporting Cast]].
+- **m4:** the charcoal-colored eye circuit was removed from [[Elion]]. [[Rune Eyes]] now says the eyes revert as the gateway shuts and keeps the lockout and lineage-trait loss.
+- **m5:** the colloquial "Awakening" is noted in [[Being Called]].
+- **m7:** the in-world legend is added to [[Aethercrux]].
+- **Gaps:** all ticked items, plus Q7's three, are folded into the notes above, along with [[Seals]] (mechanisms vs. relics, weavers, transplanting, overfilling) and [[Rune Eyes]] (awakening, Lattice sight, strength and conviction, individual manifestations).
+
+**Assumptions (check these)**
+- **Arc renumbering:** with one arc = one book and old Arc 2 split, every later arc moved up one: old 3–5 → 4–6, old 6 → 7. Specifically:
+  - Aurelia's destruction, Chara's death, and the first Elion–Soren fight → **Arc 3**.
+  - The twins reunite in **Arc 5**; the final clash and civil war are in **Arc 7**.
+  - The Companions → Arcs 4–6, abandoning Elion in Arc 6. The Bounty Hunter → Arcs 4–5.
+  - "First three major arcs" for the RHS → Arcs 1–4.
+  - The capsule speculation shifts the same way: Arc 4 discovery, Arc 6 reveal.
+- **The confrontation scene goes to Book 3,** as the fight before the twins are separated by Aurelia's destruction.
+- **Egoei's age:** you said "multi-million year old." The vault puts the Aethercrux and Egoei's prime at about 1 million years ago, so the Aethercrux note says "over a million years old."
+- **Vault typos fixed** in [[Elion]] (not v1): "golen" → "golden," and "making Elion and Soren are brothers" → "brothers."

@@ -1,6 +1,6 @@
 ---
 status: provisional
-description: "Arc 1 beginning: Elion, Soren, and Chara's setup, powers, family dynamic, and status quo"
+description: "Book 1 beginning: Elion, Soren, and Chara's setup, powers, family dynamic, and status quo"
 ---
 Arc 1 Highest Level Overview:
 
@@ -8,11 +8,11 @@ Start:
 
 [[Elion]] and [[Soren]] are both already 21. They are twins, though unbeknownst to them, Soren is marginally older by some small amount.
 
-The arc begins on a planet called [[Aurelia and the Relic Hunters#Aurelia|Aurelia]] in a nation simply called "The Concord". The world operates on a similar technological level in most respects to a medieval European one. However, the key difference is the existence of small technological/magical artifacts (usually a mix of both: futuristic and technologically advanced). These artifacts are referred to as "relics"
+The arc begins on a planet called [[Aurelia|Aurelia]] in a nation simply called "[[The Concord]]". The world operates on a similar technological level in most respects to a medieval European one. However, the key difference is the existence of small technological/magical artifacts (usually a mix of both: futuristic and technologically advanced). These artifacts are referred to as "relics"
 
 Both Soren and Elion possess superior and superhuman levels of strength, a very abnormal ability for this world. Most people utilize relics or [[Seals|seals]] to exhibit abnormal powers - which themselves are typically external abilities or in effect.
 
-Elion and Soren are nobles of this world whose parents are distant from them normally. Because of this, both of them have few real responsibilities as their parents handle noble duties
+Elion and Soren are nobles of this world whose parents are distant from them normally. Their parents keep finances and delegation and won't hand over the city or the noble title, but they place more and more of [[The Concord#Ahafurt|Ahafurt]]'s civil duties (reports, civil and personal matters) on the twins. The twins practically govern the city without having inherited it, a source of bitterness for Elion and tension with his parents
 
 Elion is a cocky SOB who believes his status and power make him superior. He cares little for the poor - not actively mistreating them, but rather, simply having no regard for them. He sees their situations as their own problem and feels no duty towards them.
 
@@ -24,7 +24,7 @@ Soren tries to stick with Elion and tries to moderate/correct his behavior. Cons
 
 The above has also bred some rancor in Elion towards Soren. This makes their relationship complex by the time the story picks up. They have good chemistry, talk, laugh together, etc. But there are moments when they are at odds, annoyed with one another for different reasons, or disagree heavily.
 
-Elion chooses to hunt relics - a flashy job for a flashy guy. He competes directly with a more clandestine group called the [[Aurelia and the Relic Hunters#The Relic Hunters|Relic Hunters]], seeing their success as a challenge to his status and a way to prop himself up. Soren, of course, accompanies him for the prior reasons and knows that, going around adventuring like Elion, he'll have more opportunities to help people out. He also prefers to not live at home and indulge in his wealth or be forced to see his parents, which is arguably a larger contribution to his reasoning to stick with Elion over being home.
+Elion hunts relics - a flashy hobby for a flashy guy (though by the start of Book 1 he hasn't been able to go for months, between city duties and his nightly research for Chara). He competes directly with a more clandestine group called the [[Relic Hunters' Society|Relic Hunters]], seeing their success as a challenge to his status and a way to prop himself up. Soren, of course, accompanies him for the prior reasons and knows that, going around adventuring like Elion, he'll have more opportunities to help people out. He also prefers to not live at home and indulge in his wealth or be forced to see his parents, which is arguably a larger contribution to his reasoning to stick with Elion over being home.
 
 Soren and Elion have a much younger sister (about 11ish years old) named [[Supporting Cast#Chara|Chara]]. She was born a sickly child, though she herself is upbeat, adventurous and optimistic. Her sickly nature didn't go away as she aged, and she struggles with basic activities (winded after exertion, difficulty getting around easy, etc.), has a weak constitution, and is very susceptible to sickness.
 

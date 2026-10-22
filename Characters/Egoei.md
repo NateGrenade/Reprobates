@@ -32,3 +32,6 @@ He doesn't bother explaining any of this to Elion, underscoring how little Egoei
 
 ## Egoei's resurrection and final thematic role
 There are a lot of variables I (Nathan) have to contend with for this. Since the story is still deepening and evolving thematically, the way that Egoei implements his plan is up in the air for the moment. 
+
+## Open questions
+Egoei is in flux. Too many questions surround him right now (his current state, his relationship to the [[Relic Hunters' Society]], how his plan plays out) to settle them definitively. They should clarify naturally once there's a trajectory for Books 2–3. Treat specifics about present-day Egoei as unsettled until then.

@@ -1,6 +1,6 @@
 ---
 status: provisional
-description: "Arc 1 inciting event: Chara's illness drives Elion and Soren to seek the Obelisk and the Relic Hunters"
+description: "Book 1 inciting event: Chara's illness drives Elion and Soren to seek the Obelisk and the Relic Hunters"
 ---
 Challenge to Status Quo:
 
@@ -10,7 +10,7 @@ This all happened around one year ago, and since then, Elion has been searching 
 
 This led Elion on a journey through books and libraries to find answers, of which he came across two. A so-called "[[Aethercrux]]" in old legends was one possible answer, which would allow Elion to make her well and then some. Elion concluded that such a thing could never really exist. The other possible solution he'd come across was another legendary but more well-known relic, "The Obelisk," which is a relic of mysterious power constructed to heal ailments of all kinds. It was buried centuries ago, as far as Elion could find in records and myth, but he never gave up looking for clues about it.
 
-When Chara falls severely ill, physicians tell [[Soren]] and Elion that she perhaps has a few weeks left at her current rate. This prompts Elion to do something he'd refused to do until now: ask the [[Aurelia and the Relic Hunters#The Relic Hunters|Relic Hunters]] for help.
+When Chara falls severely ill, physicians tell [[Soren]] and Elion that she perhaps has a few weeks left at her current rate. This prompts Elion to do something he'd refused to do until now: ask the [[Relic Hunters' Society|Relic Hunters]] for help.
 
 This forces Elion to, first of all, find the Relic Hunters. Elion's initial instinct is to get information out of them by force, but Soren reminds him that he shouldn't be rash, and elects to accompany Elion for the sake of Chara.
 
@@ -18,4 +18,10 @@ Thus, their journey begins to track down and uncover the Relic Hunters. They nee
 
 The dynamic from the onset is highly tense. Elion and Soren are on a strict time limit, and worried for their sister. Elion is less rational than usual, leading to more correction from Soren and more tension between their decisions, too.
 
-Of course, side characters have not yet been fully established, so as the arc goes on, it is imperative that people join up with Elion and Soren to flesh out the cast.
+Of course, side characters have not yet been fully established, so as the arc goes on, it is imperative that people join up with Elion and Soren to flesh out the cast. *(Since drafted: Evelyn and Aeros. See [[Book 1 Middle]].)*
+
+## In the draft: Chapter 1
+- Opens in the Ahafurt manor infirmary. Elion berates Chara's physician ("A year… Does that look like a year's worth of care right there, 'doctor'?") and kicks the staff out to visit her. She wants to go relic hunting and dreams up a laser seal. She stops breathing for a moment, and Soren drags the staff back in.
+- On a night walk, the brothers argue over the city's poor. Elion stops an assault on a young woman and publicly arrests the attacker, basking in the applause while Soren tends to the victim. Soren sees through it: "How long will you let our parents drive you to this behavior?"
+- Elion spends his nights researching cures, now down to mythology (*Relics in Antiquity*, including a chapter on the [[Aethercrux]] that he dismisses as a fairy tale).
+- The next morning the physicians give Chara weeks, "likely not even a month." In front of the household, Elion swears to his father "on my pride as a nobleman, on my pride as a man" that Chara will leave that room on her own two feet. His father coldly tells him to begin.
