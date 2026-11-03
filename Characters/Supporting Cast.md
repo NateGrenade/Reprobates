@@ -35,20 +35,29 @@ Mortal companions in Book 1, and siblings. Both are [[Innate Techniques|Sensitiv
 Book 1's [[Relic Hunters' Society]] antagonists. They are *not* the RHS's leaders; they barely scratch the surface of how deep the organization goes.
 
 **Dioikitis**
-- A famous, high-ranking RHS commander stationed at the Ahafurt sanctuary, leading an elite four-person strike squad. He answers to higher-ups and a bloated bureaucracy.
-- Arrogant, mirroring and surpassing Elion's Book 1 disposition.
-- Devout: religiously bound to relics, which belong hidden away for private worship, veneration, and experimentation. He swears "By Anokpe." He is also tactically pragmatic.
-- Wears an elite powered suit (enhanced strength and speed, thrusters, IR vision, overdrive, a plasma hand cannon, an electrified techno-staff). His mantra is "Simple Mantra: Spearing Thunder."
+- A famous, high-ranking RHS commander stationed at the Ahafurt sanctuary. He leads an elite four-person strike squad: three suited soldiers, plus Michani, newly recruited. He answers to higher-ups and a bloated bureaucracy, and it takes him days to get approval just to leave his post.
+- Disciplined and observant. He catches the brothers in the Ahafurt sanctuary by asking Elion to read the ID on his *right* sleeve (team IDs are only on the left). In Maristadiz he downloads the whole local database as a hedge before Evelyn's edit commits. He weighs the risks before agreeing to Michani's let-them-run plan.
+- Proud of his rank and the faith, not of himself. He's furious that an outsider violated the sanctuaries "not once, but twice," and has contempt for outsiders ("you worthless Aurelians"; "some common slugger"). He doesn't perform or look for an audience. His instinct is secrecy.
+- Devout: relics belong hidden away for private worship, veneration, and experimentation. He swears "By Anokpe." He knows how to wake the Obelisk with energizing Ki runes.
+- Driven by fear once Soren's eyes appear. His face goes from unfazed to "abject terror." Killing Soren and every witness, and keeping Soren secret even from the RHS, outranks the Obelisk itself. He turns down extra backup so no one else learns ("I cannot afford to have a single soul escape"). He's right that the danger is real, but he can't explain it (see [[Structure and Themes#Trilogy One and the Aioni thread]]).
+- Hard on his men. He orders his injured soldiers given quick care and released, and wants "not a word from physicians telling me otherwise."
+- Distrusts Michani from the start. He wonders how Michani knows so much, warns him not to indulge his sadism, and calls himself a fool for bringing "such a loose cannon" on so sensitive a mission. When Michani abandons him, he turns his gun on him.
+- Cracks under pressure in the cavern. When Elion's eyes appear ("There's two? That's not possible"), he stops thinking clearly, sees "a demon from hell," and his hands shake.
+- Wears an elite powered suit: enhanced strength and speed, jet thrusters, IR vision, an overdrive that overheats, a plasma hand cannon, and an electrified techno-staff. His mantra is "Simple Mantra: Spearing Thunder."
 - On the cusp of becoming a [[Priests|Priest]]. He doesn't know their rituals or the depth of the RHS's secrets, only whispers.
-- Terrified of [[Rune Eyes]]. Once Soren's eyes appear, killing Soren and every witness, and keeping Soren secret even from the RHS, outranks the Obelisk itself.
 
 **Michani**
-- A half-mechanical cyborg ("a metal abomination pretending to be human") recruited onto Dioikitis's squad.
-- Doesn't need air, and reboots after his systems are scrambled. Flies by jet. Fights with plasma cannons, a seal-fed flamethrower, and a retractable blade.
-- Long-lived ("when you've lived as long as I have"; "I haven't had this kind of fun in decades"), with intelligence far beyond his rank.
-- A deeply sadistic hunter who lives for "the chase" and treats people as "the ultimate game of chess." He nearly kills Aeros and mocks Elion as his mirror ("two sides of a coin").
-- Insubordinate. He refuses to help Dioikitis once Elion's eyes appear, and flies off.
-- **Allegiance undecided:** he possibly reaches the RHS's deeper layer, but there's no settled link to Egoei.
+- A half-mechanical cyborg ("a metal abomination pretending to be human") with a mechanical eye and voice. He's newly recruited onto Dioikitis's squad, but the two go back: "Dio… it's been years."
+- Doesn't need air, and reboots after his systems are scrambled. Flies by jet. Fights with plasma wrist cannons, a seal-fed flamethrower, and a retractable blade.
+- Long-lived ("when you've lived as long as I have"; "I haven't had this kind of fun in decades"), and bored by it. "Simple barbarics" stopped interesting him long ago, and the RHS "no longer brings me the satisfaction it once did."
+- Has no cause. What he lives for is "the chase, not the victory," and he treats people as "the ultimate game of chess." He tells Elion to "keep running" to make the next fight more interesting, and he's the one who proposes letting the group run until they're cornered.
+- His contempt is aesthetic, not moral. He's frustrated when Elion won't "play his role correctly." His "two sides of a coin" speech brands Elion as someone who does what he wants because he can, then dismisses Elion's compassion as "contradictory" and "pointless."
+- Knows far more than his rank should allow. He understands the situation without a briefing, knows Chara is sick and touted as the "true heir," and knows about Elion threatening to break a soldier's arm.
+- Knows something about [[Rune Eyes]] ("Do you know what happens to peoples when they find a pair of those eyes among them?"; he "always heard stories"; Soren could be mistaken for "a future god"). Where Dioikitis is terrified, Michani is delighted.
+- Cruel for fun. He sets Evelyn on fire and taunts her ("sweetheart"; the hair). He puts his blade through Aeros's neck and jokes, "Don't wake the poor boy up. He only just got to sleep."
+- Insubordinate: he gives no salute, and his "As you wish, Commander" is sing-song. When Elion's eyes appear he refuses to help, dodges Dioikitis's shot, and flies off laughing.
+- Beaten (briefly) by Elion overloading the tracker in his own neck. The discharge runs up Michani's arm and scrambles his systems.
+- **Allegiance undecided:** he possibly reaches the RHS's deeper layer, but there's no settled link to [[Egoei]].
 
 **Planned (not yet in draft): Dioikitis's fate**
 - Dioikitis survives Book 1 and is imprisoned by Soren for his crimes, something unheard of for any RHS member, let alone an officer. His gear is confiscated and destroyed, including his database copy.
