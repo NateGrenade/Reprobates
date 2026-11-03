@@ -14,7 +14,7 @@ The Obelisk is a legendary relic built to heal ailments of all kinds. Most commo
 
 ## Healing
 - **The Heart Gem:** a green gem at the center of the geometric design at the top. Torn out, it holds enough residual Ki to heal one person, but doing so drains it and renders the Obelisk useless.
-- **Activation:** a user draws **energizing Ki runes** in a circle. Ki is channeled through the runes into the structure, the Heart Gem leaks a glowing green liquid through every seam, and after a white-out flash a beam of green energy heals whoever is in the circle, regrowing flesh and bone.
+- **Activation:** a user draws **energizing Ki [[Runes|runes]]** in a circle. Ki is channeled through the runes into the structure, the Heart Gem leaks a glowing green liquid through every seam, and after a white-out flash a beam of green energy heals whoever is in the circle, regrowing flesh and bone.
 - **It cannot resurrect.** Aeros in Book 1 is near-dead, not dead. Bringing back the dead is unique to the [[Aethercrux]].
 - Activating it makes the Ki rivers rise and the cavern collapse as the Obelisk fights to surface.
 

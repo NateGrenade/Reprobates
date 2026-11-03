@@ -10,7 +10,7 @@ description: "Scene prototype of Soren and Elion's Arc 3 confrontation: tension,
 > Kept as a choreography reference; the scene will likely be rewritten. The prose below is unedited. Where it conflicts with canon:
 > - **Arc and book:** this was "Arc 2." That arc is now split, and this fight belongs to Arc 3 (Book 3), before Aurelia's destruction.
 > - **Timing of the eyes:** "It was weeks on end" before Elion unlocked his Rune Eyes. Per Book 1, Soren awakens in Maristadiz and Elion half-awakens about a week later at the Obelisk.
-> - **The Relic Hunters' reputation:** they weren't simply "a clandestine group interested in relics for their historical value." They're openly resented but tolerated through shadow control of the government (see [[Relic Hunters' Society#Grip on The Concord]]).
+> - **The Relic Hunters' reputation:** they weren't simply "a clandestine group interested in relics for their historical value." They're openly resented but tolerated through shadow control of the government (see [[Relic Hunters' Society#Grip on Aurelia]]).
 
 > This is an exploratory scene write-up intended to prototype the [[Soren]]/[[Elion]] relationship, dialogue, escalation, and emotional dynamics during their confrontation in Arc 3.
 >

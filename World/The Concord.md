@@ -4,7 +4,7 @@ description: "The Concord, the nation on Aurelia where Books 1–3 take place: t
 aliases: ["Aurelian Concord", "Concord"]
 ---
 ## Overview
-The Concord (the Aurelian Concord) is the nation on [[Aurelia]] where [[Elion]] and [[Soren]] live, and the main setting of Trilogy One. Its government is secretly controlled by the [[Relic Hunters' Society]] (see [[Relic Hunters' Society#Grip on The Concord]]). Locals speak Concordian.
+The Concord (the Aurelian Concord) is the nation on [[Aurelia]] where [[Elion]] and [[Soren]] live, and the main setting of Trilogy One. Its government is secretly controlled by the [[Relic Hunters' Society]] (see [[Relic Hunters' Society#Grip on Aurelia]]). Locals speak Concordian. Proposed political structure (a compact of High Houses under a Crown): [[Concord Political Structure]].
 
 ## The capital
 - The seat of government, enforced by the **Elite Concord(ian) Guard**. Elion won't openly defy it, unlike the illegitimate RHS.

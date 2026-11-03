@@ -39,6 +39,7 @@ Book 1's [[Relic Hunters' Society]] antagonists. They are *not* the RHS's leader
 - Arrogant, mirroring and surpassing Elion's Book 1 disposition.
 - Devout: religiously bound to relics, which belong hidden away for private worship, veneration, and experimentation. He swears "By Anokpe." He is also tactically pragmatic.
 - Wears an elite powered suit (enhanced strength and speed, thrusters, IR vision, overdrive, a plasma hand cannon, an electrified techno-staff). His mantra is "Simple Mantra: Spearing Thunder."
+- On the cusp of becoming a [[Priests|Priest]]. He doesn't know their rituals or the depth of the RHS's secrets, only whispers.
 - Terrified of [[Rune Eyes]]. Once Soren's eyes appear, killing Soren and every witness, and keeping Soren secret even from the RHS, outranks the Obelisk itself.
 
 **Michani**
