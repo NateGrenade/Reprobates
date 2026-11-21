@@ -1,6 +1,7 @@
 ---
 status: provisional
 description: "Soren, Elion's brother and rival: ideology, Book 1 awakening, absorption power, relationship to Elion, and his death"
+type: character
 ---
 Soren is [[Elion]]'s brother and rival, engineered as a fetus by [[Egoei]] alongside Elion.
 

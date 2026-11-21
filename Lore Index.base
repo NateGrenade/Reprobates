@@ -5,6 +5,8 @@ filters:
     - file.name != "README"
     - not:
         - file.inFolder("Templates")
+    - not:
+        - file.inFolder("Atlas")
 properties:
   note.status:
     displayName: Status

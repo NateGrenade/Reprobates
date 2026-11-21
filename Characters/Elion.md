@@ -1,6 +1,9 @@
 ---
 status: provisional
 description: "Elion, the protagonist: Atheri origin, childhood, Rune Eyes and his Book 1 half-awakening, adaptation power, the Zenith, and his arc/ending"
+type: character
+portrait: Atlas/Portraits/elion.png
+card_style: protagonist
 ---
 Elion is the protagonist of Reprobates, an engineered member of the Atheri, a powerful and long living race. He was created as a fetus by [[Egoei]], who functions as his (and [[Soren]]'s) father/creator rather than a biological parent — making Elion and Soren brothers in that engineered sense.
 

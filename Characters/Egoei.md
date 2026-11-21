@@ -1,6 +1,7 @@
 ---
 status: provisional
 description: "Egoei, villain: backstory with Aioni, egoist ideology, the New Atheri plan, and his death/resurrection"
+type: character
 ---
 Egoei is a philosophically articulate antagonist and, in an engineered sense, the father/creator of both [[Elion]] and [[Soren]].
 

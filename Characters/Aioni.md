@@ -1,6 +1,7 @@
 ---
 status: provisional
 description: "Aioni, villain: genocide of the Atheri, his empire and imposed peace, relationship to Egoei, and his death"
+type: character
 ---
 Aioni is a morally complex antagonist defined by profound hypocrisy: he genocided nearly all of the Atheri because he believed their immortality bred cruelty, yet retained his own power. He rationalizes this through a belief in his own indispensability to galactic peace, while fundamentally being driven by fear of death.
 

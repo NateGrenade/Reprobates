@@ -1,0 +1,24 @@
+# Reprobates Atlas settings. See Atlas/README.md.
+epoch_label: "Book 1 begins"
+days_per_year: 365
+eras: []
+timelines: []
+calendar: null
+root_location: null
+calendars:
+  - slug: elioncentric
+    name: Main calendar
+    year_zero_offset: 0
+    before_label: BE
+    after_label: AE
+    months:
+      - name: Janu-test
+        days: 31
+    weekdays:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+    hours_per_day: 20
